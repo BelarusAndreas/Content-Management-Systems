@@ -571,6 +571,7 @@ DSpace is a web application, allowing researchers and scholars to publish docume
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Exponent CMS](http://www.exponentcms.org/) \
+Exponent is a website content management system (or CMS) that allows site owners to easily create and manage dynamic websites without necessarily directly coding web pages, or managing site navigation. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-SQL-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -578,6 +579,7 @@ DSpace is a web application, allowing researchers and scholars to publish docume
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [eZ Platform](https://www.ibexa.co/de/produkt) \
+Ibexa Content is a multichannel and headless content management system (CMS) designed for marketing, e-commerce and self-service apps. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-SQL-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -585,6 +587,7 @@ DSpace is a web application, allowing researchers and scholars to publish docume
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Feindura](http://feindura.org/) \
+Feindura is lightweight flat file based content management system for webdesigners, written in PHP and ideal for small and medium websites. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-FlatFile-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
