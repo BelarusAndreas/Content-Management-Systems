@@ -57,6 +57,7 @@ MojoPortal is a free open source content management system that anyone can use t
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Orchard](https://orchardcore.net/) \
+Orchard Core is a ASP.NET open-source, modular and multi-tenant application framework and CMS. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-SQL,_MS_SQL_Server-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -64,6 +65,7 @@ MojoPortal is a free open source content management system that anyone can use t
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Umbraco](http://www.umbraco.com/) \
+Umbraco helps you launch digital projects fast, with lower cost, a scalable architecture, and the freedom to build your way. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-SQL-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -73,6 +75,7 @@ MojoPortal is a free open source content management system that anyone can use t
 ## Go
 
  - [Ketchup](https://github.com/ketchuphq/ketchup) \
+A simple CMS.
 \
 ![Generic badge](https://img.shields.io/badge/Database-N/A-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -82,6 +85,7 @@ MojoPortal is a free open source content management system that anyone can use t
 ## Java
 
  - [Ametys CMS](http://www.ametys.org/) \
+Ametys Community brings together developers, architects, amateurs, anyone with interests for open source web initiative. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-JSR_170-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -89,6 +93,7 @@ MojoPortal is a free open source content management system that anyone can use t
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Apache Lenya](https://lenya.apache.org/) \
+Apache Lenya is an Open Source Java/XML Content Management System and comes with revision control, multi-site management, scheduling, search, WYSIWYG editors, and workflow. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-N/A-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -96,6 +101,7 @@ MojoPortal is a free open source content management system that anyone can use t
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [CMS](https://github.com/CondationCMS/cms-server) \
+Java flat file cms. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-FlatFile-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -103,6 +109,7 @@ MojoPortal is a free open source content management system that anyone can use t
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Crafter CMS](https://craftercms.org/) \
+CrafterCMS is an open source, composable and headless content management platform that provides freedom for your technology choices, supporting all types of content-centric, dynamic sites and apps. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-N/A-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -110,6 +117,7 @@ MojoPortal is a free open source content management system that anyone can use t
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [ContentBox Modular CMS](https://github.com/ortus-solutions/contentbox) \
+Enterprise ColdFusion (CFML) Modular CMS. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-N/A-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -117,6 +125,7 @@ MojoPortal is a free open source content management system that anyone can use t
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Decap](https://decapcms.org/) \
+Open source content management for your Git workflow. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-Static-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -124,6 +133,7 @@ MojoPortal is a free open source content management system that anyone can use t
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [dotCMS](https://www.dotcms.com/) \
+A Headless CMS separates your content from the presentation layer, enabling fast front-end development on the framework of your choice. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-N/A-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -131,6 +141,7 @@ MojoPortal is a free open source content management system that anyone can use t
 ![Generic badge](https://img.shields.io/badge/Price-Free_&_Paid-red.svg)
 
  - [Magnolia CMS](https://www.magnolia-cms.com/) \
+With Magnolia you can unify your content, customer data, and legacy tech to build engaging websites, portals, and apps at scale. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-JSR_168,_JSR_170-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -138,6 +149,7 @@ MojoPortal is a free open source content management system that anyone can use t
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [MetalSmith](https://metalsmith.io/) \
+An extremely simple, pluggable static site generator for NodeJS. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-Static-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -145,6 +157,7 @@ MojoPortal is a free open source content management system that anyone can use t
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Nuxeo](https://github.com/nuxeo/nuxeo) \
+Content management platform to build modern business applications. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-SQL,_NoSQL-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -152,6 +165,7 @@ MojoPortal is a free open source content management system that anyone can use t
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [OpenCMS](http://www.opencms.org/de/) \
+OpenCms von Alkacon Software ist ein leistungsstarkes, einfach zu bedienendes Website Content Management System. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-N/A-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -159,6 +173,7 @@ MojoPortal is a free open source content management system that anyone can use t
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [OpenKM](https://www.openkm.com/) \
+Easily manage content, simplify work, and increase efficiency. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-SQL,_MariaDB,_PostgreSQL,_Oracle,_MS_SQL_Server,_others-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -166,6 +181,7 @@ MojoPortal is a free open source content management system that anyone can use t
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [OpenWGA](https://www.openwga.com/) \
+Open Source Java based Enterprise CMS. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-SQL_PostgreSQL,_MS_SQL_Server,_HSQLDB-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -173,6 +189,7 @@ MojoPortal is a free open source content management system that anyone can use t
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Typemill](https://typemill.net/) \
+Typemill is a lightweight, open-source CMS for hybrid publishing. Made for user manuals, documentation, knowledge bases, and professional eBooks. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-FlatFile-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
