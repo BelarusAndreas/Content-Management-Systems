@@ -746,95 +746,95 @@
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Neos](https://neos.io/) \
-📄 PHP \
-⚙️ SQL \
-🇺🇳 Multilingual \
-⚖️ GPL \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-SQL-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-GPL-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Nibbleblog](https://github.com/dignajar/nibbleblog) \
-📄 PHP \
-⚙️ Flat-File \
-🇺🇳 Multilingual \
-⚖️ GPL 3.0 \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-FlatFile-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-GPL_3.0-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Novius OS](https://github.com/novius-os/novius-os) \
-📄 PHP \
-⚙️ SQL \
-🇺🇳 Multilingual \
-⚖️ AGPL 3.0 \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-SQL-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-AGPL_3.0-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Nucleus CMS](http://nucleuscms.org/) \
-📄 PHP \
-⚙️ SQL \
-🇺🇳 Multilingual \
-⚖️ GPL \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-SQL-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-GPL-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [October CMS](https://octobercms.com/) \
-📄 PHP \
-⚙️ SQL, SQLite, Flat-File \
-🇺🇳 Multilingual \
-⚖️ Proprietär \
-💵 Free & Paid 29 $
+\
+![Generic badge](https://img.shields.io/badge/Database-SQL,_SQLite,_FlatFile-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-Proprietär-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free_&_Paid_29_$-red.svg)
 
  - [Omeka](https://omeka.org/) \
-📄 PHP \
-⚙️ SQL, MariaDB \
-🇺🇳 Multilingual \
-⚖️ GPL 3.0 \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-SQL,_MariaDB-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-GPL_3.0-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Orbiter](https://github.com/kasparsd/orbiter) \
-📄 PHP \
-⚙️ Flat-File \
-🇺🇳 Multilingual \
-⚖️ N/A \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-FlatFile-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-N/A-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Pagekit CMS](https://github.com/pagekit/pagekit) \
-📄 PHP \
-⚙️ Statisch \
-🇺🇳 Multilingual \
-⚖️ MIT \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-Static-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-MIT-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Parvula](https://github.com/BafS/parvula) \
-📄 PHP \
-⚙️ Flat-File \
-🇺🇳 Multilingual \
-⚖️ MIT \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-FlatFile-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-MIT-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Papaya CMS](http://www.papaya-cms.com/) \
-📄 PHP \
-⚙️ SQL, SQLite \
-🇺🇳 Multilingual \
-⚖️ GPL \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-SQL,_SQLite-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-GPL-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Phire CMS](https://www.phirecms.org/) \
-📄 PHP \
-⚙️ SQL \
-🇺🇳 N/A \
-⚖️ BSD License \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-SQL-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-BSD-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [PHP-Fusion](https://php-fusion.co.uk/) \
-📄 PHP \
-⚙️ SQL, MariaDB \
-🇺🇳 Multilingual \
-⚖️ AGPL \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-SQLite,_MariaDB-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-AGPL-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [PHP-Nuke](http://www.phpnuke-service.de/) \
-📄 PHP \
-⚙️ SQL \
-🇺🇳 Multilingual \
-⚖️ GPL \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-SQL-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-GPL-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [phpWebLog](https://sourceforge.net/projects/phpweblog/) \
 📄 PHP \
