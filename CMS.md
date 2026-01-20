@@ -1,6 +1,7 @@
 ## .NET
 
  - [Awesome CMS](https://github.com/SaiGonSoftware/Awesome-CMS-Core) \
+Awesome CMS Core is an open source CMS built using ASP.Net Core & ReactJS with module seperation concern in mind. Awesome CMS Core provide lastest trend of technology like .Net Core, React, Webpack, SASS, Background Job, Queue. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-SQLite-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -8,6 +9,7 @@
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg) 
 
  - [Better CMS](https://github.com/devbridge/BetterCMS) \
+A publishing focused and developer friendly .NET Open Source CMS. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-SQL-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -15,6 +17,7 @@
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [C1 CMS](https://cms.orckestra.com/) \
+Award-winning CMS built for the Cloud. C1 CMS created by Orckestra. Built on the Microsoft stack. Distributed as open source, fully managed or as part of the Orckestra Commerce Cloud platform. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-SQL,_FlatFile-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -22,6 +25,7 @@
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [DNN](https://www.dnnsoftware.com/) \
+DNN provides a development framework and extensibility model for .NET developers. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-MS_SQL_Server,_MS_SQL_Server_Express,_SQL_Azure-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -29,6 +33,7 @@
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Kaliko CMS](https://github.com/KalikoCMS/KalikoCMS.Core) \
+Open source content management system (CMS) for the ASP.NET platform. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-SQL,_SQLite,_MariaDB,_PostgreSQL,_Oracle,_MS_SQL_Server,_Sybase_SQL_Anywhere,_Vista-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -36,6 +41,7 @@
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Kentico CMS](http://www.kentico.com/) \
+Manage all your content from one place and deliver it seamlessly across every channel. With a flexible, intuitive CMS, marketers gain the freedom to move faster, reduce reliance on IT, and create with confidence. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-SQL-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -43,6 +49,7 @@
 ![Generic badge](https://img.shields.io/badge/Price-Free_&_Paid_2.490$-red.svg)
 
  - [MojoPortal](http://www.mojoportal.com/) \
+MojoPortal is a free open source content management system that anyone can use to build a website, no coding knowledge required. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-SQL,_SQLite,_PostgreSQL,_MS_SQL_Server,_SQL_Azure-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
