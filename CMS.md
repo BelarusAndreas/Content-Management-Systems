@@ -1,76 +1,76 @@
 ## .NET
 
  - [Awesome CMS](https://github.com/SaiGonSoftware/Awesome-CMS-Core) \
-📄 .NET \
-⚙️ SQLite \
-🇺🇳 Multilingual \
-⚖️ Apache 2 \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-SQLite-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-Apache_2.0-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Better CMS](https://github.com/devbridge/BetterCMS) \
-📄 .NET \
-⚙️ SQL \
-🇺🇳 Multilingual \
-⚖️ GPL 3 / LGPL 3 \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-SQL-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-GPL_3.0,_LGPL_3.0-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [C1 CMS](https://cms.orckestra.com/) \
-📄 .NET \
-⚙️ SQL, Flat-File \
-🇺🇳 Multilingual \
-⚖️ Mozilla Public License \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-SQL,_FlatFile-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-MPL-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [DNN](https://www.dnnsoftware.com/) \
-📄 .NET \
-⚙️ MS SQL-Server, MS SQL-Server Express, SQL Azure \
-🇺🇳 Multilingual \
-⚖️ MIT \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-MS_SQL_Server,_MS_SQL_Server_Express,_SQL_Azure-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-MIT-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Kaliko CMS](https://github.com/KalikoCMS/KalikoCMS.Core) \
-📄 .NET \
-⚙️ SQL, SQLite, MariaDB, PostgreSQL, Firebird, Oracle, MS SQL-Server, Sybase SQL Anywhere, Vista \
-🇺🇳 Multilingual \
-⚖️ Apache 2 \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-SQL,_SQLite,_MariaDB,_PostgreSQL,_Oracle,_MS_SQL_Server,_Sybase_SQL_Anywhere,_Vista-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-Apache_2.0-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Kentico CMS](http://www.kentico.com/) \
-📄 .NET \
-⚙️ SQL \
-🇺🇳 Multilingual \
-⚖️ Kentico License \
-💵 Free -& Paid 2.490 $
+\
+![Generic badge](https://img.shields.io/badge/Database-SQL-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-Kentico_Licence-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free_&_Paid_2.490$-red.svg)
 
  - [MojoPortal](http://www.mojoportal.com/) \
-📄 .NET \
-⚙️ SQL, SQLite, PortgreSQL, MS SQL-Server, SqlAzure \
-🇺🇳 Multilingual \
-⚖️ EPL \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-SQL,_SQLite,_PostgreSQL,_MS_SQL_Server,_SQL_Azure-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-EPL-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Orchard](https://orchardcore.net/) \
-📄 .NET \
-⚙️ SQL, MS SQL_Server \
-🇺🇳 Multilingual \
-⚖️ BSD 3 \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-SQL,_MS_SQL_Server-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-BSD_3.0-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Umbraco](http://www.umbraco.com/) \
-📄 .NET \
-⚙️ SQL \
-🇺🇳 Multilingual \
-⚖️ MIT \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-SQL-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-MIT-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
 ## Go
 
  - [Ketchup](https://github.com/ketchuphq/ketchup) \
-📄 Go \
-⚙️ N/A \
-🇺🇳 Multilingual \
-⚖️ Apache 2.0 \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-N/A-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-Apache_2.0-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
 ## Java
 
