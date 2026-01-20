@@ -231,6 +231,7 @@ The react static site generator that separates editing and code concerns. \
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [DotCMS](https://www.dotcms.com/) \
+dotCMS gives you the power to build, deploy, and govern content at enterprise scale. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-N/A-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -238,6 +239,7 @@ The react static site generator that separates editing and code concerns. \
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Directus](https://directus.io/) \
+Create, manage, and scale headless content. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-SQL,_SQLite,_MariaDB,_Oracle,_CockroachDB,_MS_SQL_Server-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -245,6 +247,7 @@ The react static site generator that separates editing and code concerns. \
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Nanote](https://github.com/omarmir/nanote) \
+Lightweight, self-hosted note-taking application with filesystem-based storage so you maintain 100% portability of your notes. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-FlatFile-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -252,6 +255,7 @@ The react static site generator that separates editing and code concerns. \
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Pages CMS](https://pagescms.org/) \
+The No-Hassle CMS for Static Sites Generators. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-Static-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -259,6 +263,7 @@ The react static site generator that separates editing and code concerns. \
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Paylaod CMS](https://github.com/payloadcms/payload) \
+Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-N/A-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -266,6 +271,7 @@ The react static site generator that separates editing and code concerns. \
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Prime](https://github.com/birkir/prime) \
+Open Source GraphQL CMS. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-PostgreSQL-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -273,13 +279,15 @@ The react static site generator that separates editing and code concerns. \
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Prose](https://prose.io/) \
+Prose is a content editor for GitHub designed for managing websites. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-Static-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
 ![Generic badge](https://img.shields.io/badge/Licence-BSD_3.0-red.svg) \
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
- - [Relax](ttps://github.com/relax/relax) \
+ - [Relax](https://github.com/relax/relax) \
+New generation CMS on top of React, Redux and GraphQL. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-N/A-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -287,6 +295,7 @@ The react static site generator that separates editing and code concerns. \
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Tina](https://tina.io/) \
+Build stunning websites with TinaCMS visual editor, or create beautiful documentation with TinaDocs. Both powered by Git and built for developers who love great UX. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-Static-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
