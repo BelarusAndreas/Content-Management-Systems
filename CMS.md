@@ -305,6 +305,7 @@ Build stunning websites with TinaCMS visual editor, or create beautiful document
 ## Perl
 
  - [Bricolage](https://github.com/bricoleurs/bricolage) \
+Content management and publishing system. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-SQL,_PostgreSQL-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -312,6 +313,7 @@ Build stunning websites with TinaCMS visual editor, or create beautiful document
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Movable Type](http://movabletype.org/) \
+Movable Type was created by a husband and wife team with a single purpose: to create a powerful solution for the creation and management of web content. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-SQL-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -319,6 +321,7 @@ Build stunning websites with TinaCMS visual editor, or create beautiful document
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [WebGUI](https://github.com/plainblack/webgui) \
+A free open source content management system and web application framework. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-SQL-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -328,6 +331,7 @@ Build stunning websites with TinaCMS visual editor, or create beautiful document
 ## PHP
 
  - [AjaxCMS](https://ajaxcms.org/) \
+AjaxCMS is an open-source, static-file-based CMS that runs entirely in JavaScript on the browser. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-FlatFile-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -335,6 +339,7 @@ Build stunning websites with TinaCMS visual editor, or create beautiful document
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Anchor CMS](https://github.com/anchorcms/anchor-cms) \
+A lightweight blog CMS for PHP. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-SQL,_SQLite-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -342,6 +347,7 @@ Build stunning websites with TinaCMS visual editor, or create beautiful document
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [AsgardCMS](https://github.com/AsgardCms/Platform) \
+A modular multilingual CMS built with Laravel 5. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-SQL,_PostgreSQL,_MS_SQL_Server-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -349,6 +355,7 @@ Build stunning websites with TinaCMS visual editor, or create beautiful document
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Automad](https://automad.org/) \
+Automad is a flat-file content management system and template engine. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-FlatFile-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -356,6 +363,7 @@ Build stunning websites with TinaCMS visual editor, or create beautiful document
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [B2Evolution](https://b2evolution.net/) \
+b2evolution includes everything you need to build websites for sharing and interacting with your community. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-SQL-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -363,6 +371,7 @@ Build stunning websites with TinaCMS visual editor, or create beautiful document
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Backdrop CMS](https://backdropcms.org/) \
+Backdrop CMS is a free and Open Source Content Management System that helps you build modern, comprehensive websites on a reasonable budget. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-SQL-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -370,6 +379,7 @@ Build stunning websites with TinaCMS visual editor, or create beautiful document
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [BatFlat](https://batflat.org/) \
+Lightweight, fast and easy CMS for free. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-SQL-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -377,6 +387,7 @@ Build stunning websites with TinaCMS visual editor, or create beautiful document
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Baun](https://bauncms.com/) \
+A modern, lightweight, extensible CMS for PHP. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-FlatFile-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -384,6 +395,7 @@ Build stunning websites with TinaCMS visual editor, or create beautiful document
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Bludit](https://www.bludit.com/) \
+Create your own Website or Blog in seconds. Simple, Fast, Secure, Flat-File CMS. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-FlatFile-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -391,6 +403,7 @@ Build stunning websites with TinaCMS visual editor, or create beautiful document
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [BoidCMS](https://boidcms.github.io/#/) \
+Flat file CMS for building simple websites and blogs. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-FlatFile-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -398,13 +411,15 @@ Build stunning websites with TinaCMS visual editor, or create beautiful document
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Bolt](https://github.com/bolt/project) \
+Bolt CMS is an open source, adaptable platform for building and running modern websites. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-SQL,_SQLite,_MariaDB,_PostgreSQL-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
 ![Generic badge](https://img.shields.io/badge/Licence-MIT-red.svg) \
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
- - [BootstrapCMS](https://github.com/bolt/project) \
+ - [BootstrapCMS](https://github.com/BootstrapCMS/CMS) \
+A PHP CMS powered by Laravel 5 and Sentry.
 \
 ![Generic badge](https://img.shields.io/badge/Database-SQL,_SQLite,_PostgreSQL,_MS_SQL_Server-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -412,6 +427,7 @@ Build stunning websites with TinaCMS visual editor, or create beautiful document
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [BorgertCMS](https://github.com/borgert-inc/borgert-cms) \
+Borgert is a CMS Open Source created with Laravel Framework. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-SQL,_SQLite,_PostgreSQL,_MS_SQL_Server-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-English,_Portuguese,_Spanish,_Chinese-orange.svg) \
@@ -419,13 +435,15 @@ Build stunning websites with TinaCMS visual editor, or create beautiful document
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [CMSimple](https://www.cmsimple.org/) \
+CMSimple is a php based CMS (Content Management System) that does not require a database. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-FlatFile-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
 ![Generic badge](https://img.shields.io/badge/Licence-GPL_3.0-red.svg) \
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
- - [CMS Simple XH](https://www.cmsimple-xh.org/de/) \
+ - [CMS Simple XH](https://www.cmsimple-xh.org/) \
+With CMSimple_XH you can create a website in a few minutes, which you can maintain online. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-FlatFile-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -433,6 +451,7 @@ Build stunning websites with TinaCMS visual editor, or create beautiful document
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [CMS Made Simple](https://cmsmadesimple.org/) \
+A modular and extensible Content Management System that, with the Smarty templating engine, is easy to customize to create the sites and applications you want. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-SQL-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -440,6 +459,7 @@ Build stunning websites with TinaCMS visual editor, or create beautiful document
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [CMSUno](https://github.com/boiteasite/cmsuno) \
+An easy and clever tool to create one-page responsive websites. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-SQL-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -447,6 +467,7 @@ Build stunning websites with TinaCMS visual editor, or create beautiful document
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Coast CMS](http://www.coast-cms.de/) \
+With Coast CMS, static HTML5 websites become editable in no time. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-Static-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -454,6 +475,7 @@ Build stunning websites with TinaCMS visual editor, or create beautiful document
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Composr CMS](http://compo.sr/) \
+The versatile Content Management System for next generation websites. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-N/A-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -461,6 +483,7 @@ Build stunning websites with TinaCMS visual editor, or create beautiful document
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Concrete CMS](https://www.concretecms.com/) \
+Concrete Content Management System (CMS) lets content creators, designers, and developers build, author, and publish content. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-SQL-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -468,6 +491,7 @@ Build stunning websites with TinaCMS visual editor, or create beautiful document
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Contao](https://contao.org/) \
+Contao is a powerful, accessible open source CMS that allows you to create professional websites and scalable web applications. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-SQL-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -475,13 +499,15 @@ Build stunning websites with TinaCMS visual editor, or create beautiful document
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Contenta CMS](https://www.contentacms.org/) \
+Contenta is an API-First Drupal distribution. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-Static-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
 ![Generic badge](https://img.shields.io/badge/Licence-GPL_2.0-red.svg) \
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
- - [Craft CMS]([https://github.com/craftcms/cms) \
+ - [Craft CMS](https://github.com/craftcms/cms) \
+Craft is a flexible, user-friendly CMS for creating custom digital experiences on the web and beyond. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-SQL,_PostgreSQL-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -489,6 +515,7 @@ Build stunning websites with TinaCMS visual editor, or create beautiful document
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Croogo](https://croogo.org/) \
+A CakePHP CMS. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-SQL-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -496,6 +523,7 @@ Build stunning websites with TinaCMS visual editor, or create beautiful document
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Daux](http://daux.io/) \
+Daux.io is a documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-FlatFile-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -503,13 +531,15 @@ Build stunning websites with TinaCMS visual editor, or create beautiful document
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [DodgerCMS](https://dodgercms.com/) \
+DodgerCMS is a static markdown CMS built on top of Amazon S3.
 \
 ![Generic badge](https://img.shields.io/badge/Database-Static-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
 ![Generic badge](https://img.shields.io/badge/Licence-MIT-red.svg) \
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
- - [Dotlear](https://dotclear.org/) \
+ - [Dotclear](https://dotclear.org/) \
+Dotclear is an open-source web publishing software. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-Static-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -517,6 +547,7 @@ Build stunning websites with TinaCMS visual editor, or create beautiful document
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Dropplets](http://dropplets.com/) \
+Welcome to an easier way to blog - A minimalist markdown blogging platform. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-Static-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -524,6 +555,7 @@ Build stunning websites with TinaCMS visual editor, or create beautiful document
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Drupal](https://drupal.org/) \
+Drupal is a fully composable, AI-ready CMS that allows you to design a digital experience to your vision. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-SQL,_SQLite-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -531,6 +563,7 @@ Build stunning websites with TinaCMS visual editor, or create beautiful document
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [DSpace](https://dspace.org/) \
+DSpace is a web application, allowing researchers and scholars to publish documents and data. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-N/A-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
