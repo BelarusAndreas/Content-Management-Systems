@@ -837,375 +837,369 @@
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [phpWebLog](https://sourceforge.net/projects/phpweblog/) \
-📄 PHP \
-⚙️ N/A \
-🇺🇳 Multilingual \
-⚖️ GPL 2.0 \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-N/A-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-GPL_2.0-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Phrozn](http://phrozn.info/) \
-📄 PHP \
-⚙️ Statisch \
-🇺🇳 Multilingual \
-⚖️ Apache 2 \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-Static-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-Apache_2.0-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Pico](https://picocms.org/) \
-📄 PHP \
-⚙️ Flat-File \
-🇺🇳 Multilingual \
-⚖️ MIT \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-FlatFile-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-MIT-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Pixi](http://www.getpixie.co.uk/) \
-📄 PHP \
-⚙️ SQL \
-🇺🇳 Multilingual \
-⚖️ GPL \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-SQL-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-GPL-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [PieCrust](https://bolt80.com/piecrust/) \
-📄 PHP \
-⚙️ Statisch \
-🇺🇳 N/A \
-⚖️ Apache 2 \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-Static-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-Apache_2.0-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Pimcore](https://www.pimcore.com/) \
-📄 PHP \
-⚙️ SQL \
-🇺🇳 Multilingual \
-⚖️ GPL \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-SQL-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-GPL-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Pixie CMS](http://www.getpixie.co.uk/) \
-📄 PHP \
-⚙️ SQL \
-🇺🇳 Multilingual \
-⚖️ GPL \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-SQL-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-GPL-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Pluck CMS](https://github.com/pluck-cms/pluck) \
-📄 PHP \
-⚙️ Flat-File \
-🇺🇳 Multilingual \
-⚖️ N/A \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-FlatFile-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-N/A-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [PluXML](https://pluxml.org/) \
-📄 PHP \
-⚙️ Flat-File \
-🇺🇳 Multilingual \
-⚖️ GPL 3.0 \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-FlatFile-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-GPL_3.0-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [ProcessWire](https://processwire.com/) \
-📄 PHP \
-⚙️ SQL \
-🇺🇳 Multilingual \
-⚖️ Mozilla Public License 2.0 \
-💵 Kostenlos
+\
+![Generic badge](https://img.shields.io/badge/Database-SQL-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-MPL_2.0-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Pulse CMS](https://www.pulsecms.com/) \
-📄 PHP \
-⚙️ Statisch \
-🇺🇳 Multilingual \
-⚖️ Proprietär \
-💵 Paid 97 $
+\
+![Generic badge](https://img.shields.io/badge/Database-Static-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-Proprietär-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Paid_97_$-red.svg)
 
  - [Puppy CMS](http://www.puppycms.com/) \
-📄 PHP \
-⚙️ Flat-File \
-🇺🇳 Multilingual \
-⚖️ MIT \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-FlatFile-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-MIT-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Pyro CMS](https://pyrocms.com/) \
-📄 PHP \
-⚙️ Statisch \
-🇺🇳 Multilingual \
-⚖️ MIT \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-Static-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-MIT-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [RazorCMS](http://www.razorcms.co.uk/) \
-📄 PHP \
-⚙️ Flat-File \
-🇺🇳 Multilingual \
-⚖️ GPL 3 \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-FlatFile-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-GPL_3.0-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Redaxo](https://redaxo.org/) \
-📄 PHP \
-⚙️ SQL \
-🇺🇳 Multilingual \
-⚖️ MIT \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-SQL-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-MIT-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [RespondCMS](https://respondcms.com/) \
-📄 PHP \
-⚙️ Flat-File \
-🇺🇳 Multilingual \
-⚖️ RespondCMS License \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-FlatFile-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-RespondCMS_Licence-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Sculpin](https://sculpin.io/) \
-📄 PHP \
-⚙️ Statisch \
-🇺🇳 N/A \
-⚖️ MIT \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-Static-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-MIT-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Serendipity](https://docs.s9y.org/) \
-📄 PHP \
-⚙️ SQL, SQLite, MariaDB, PostgreSQL \
-🇺🇳 Multilingual \
-⚖️ BSD 3.0 \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-SQL,_SQLite,_MariaDB,_PostgreSQL-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-BSD_3.0-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [SilverStripe](http://www.silverstripe.org/) \
-📄 PHP \
-⚙️ SQL \
-🇺🇳 Multilingual \
-⚖️ BSD-Lizenz \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-SQL-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-BSD-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [SingleCMS](http://craig-russell.co.uk/2011/09/20/single-cms-the-one-page-cms.html#.XGErjqwzbMU) \
-📄 PHP \
-⚙️ Flat-File \
-🇺🇳 Englisch \
-⚖️ MIT \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-FlatFile-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-English-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-MIT-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Singularity](https://archive.christophersu.net/2012/singularity-cms-single-php-file/) \
-📄 PHP \
-⚙️ Flat-File \
-🇺🇳 Englisch \
-⚖️ N/A \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-FlatFile-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-English-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-N/A-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Sitecake](https://sitecake.com/) \
-📄 PHP \
-⚙️ Flat-File \
-🇺🇳 Multilingual \
-⚖️ Sitecake License \
-💵 Paid 39 $
+\
+![Generic badge](https://img.shields.io/badge/Database-FlatFile-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-Sitecake_Licence-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Paid_39_$-red.svg)
 
  - [Sphido](https://sphido.org/) \
-📄 PHP \
-⚙️ Statisch \
-🇺🇳 Englisch \
-⚖️ MIT \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-Static-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-English-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-MIT-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Spip](https://www.spip.net/) \
-📄 PHP \
-⚙️ SQL, SQLite, MariaDB \
-🇺🇳 Multilingual \
-⚖️ GPL \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-SQL,_SQLite,_MariaDB-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-GPL-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Statamic](https://statamic.com/) \
-📄 PHP \
-⚙️ Statisch \
-🇺🇳 Multilingual \
-⚖️ Statamic License \
-💵 Paid 198 $
+\
+![Generic badge](https://img.shields.io/badge/Database-Static-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-Statamic_Licence-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Paid_198_$-red.svg)
 
  - [SwiftEdit](https://swiftyedit.org/) \
-📄 PHP \
-⚙️ SQL, SQLite \
-🇺🇳 Multilingual \
-⚖️ N/A \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-SQL,_SQLite-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-N/A-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Sulu](https://github.com/sulu/sulu-standard) \
-📄 PHP \
-⚙️ SQL, SQLite, MariaDB, PostgreSQL, Oracle, MS SQL-Server, Sybase SQL \
-🇺🇳 Multilingual \
-⚖️ MIT \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-SQL,_SQLite,_PostgreSQL,_Oracle,_MS_SQL_Server,_Sybase_SQL-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-MIT-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Textpattern](https://textpattern.com/) \
-📄 PHP \
-⚙️ SQL \
-🇺🇳 Multilingual \
-⚖️ GPL 2 \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-SQL-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-GPL_2.0-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Thelia](https://thelia.net/) \
-📄 PHP \
-⚙️ SQL \
-🇺🇳 Multilingual \
-⚖️ GPL 3.0 \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-SQL-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-GPL_3.0-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Twill CMS](https://twillcms.com/) \
-📄 PHP \
-⚙️ N/A \
-🇺🇳 Multilingual \
-⚖️ Apache 2.0 \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-N/A-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-Apache_2.0-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [TYPO3](https://typo3.org/) \
-📄 PHP \
-⚙️ SQL \
-🇺🇳 Multilingual \
-⚖️ GPL \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-SQL-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-GPL-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Typesetter](https://github.com/Typesetter/Typesetter) \
-📄 PHP \
-⚙️ Flat-File \
-🇺🇳 Multilingual \
-⚖️ N/A \
-💵 Kostenlos
+\
+![Generic badge](https://img.shields.io/badge/Database-FlatFile-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-N/A-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Unite CMS](https://www.unite.co.at/) \
-📄 PHP \
-⚙️ N/A \
-🇺🇳 Multilingual \
-⚖️ MIT \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-N/A-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-MIT-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Urubu](http://urubu.jandecaluwe.com/) \
-📄 PHP \
-⚙️ Statisch \
-🇺🇳 N/A \
-⚖️ AGPL 3 \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-Static-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-N/A-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-AGPL_3.0-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Vodka](https://github.com/deseven/Vodka) \
-📄 PHP \
-⚙️ Flat-File \
-🇺🇳 N/A \
-⚖️ Public Domain \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-FlatFile-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-Public_Domain-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Winter CMS](https://wintercms.com/) \
-📄 PHP \
-⚙️ Flat-File \
-🇺🇳 Multilingual \
-⚖️ MIT \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-FlatFile-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-MIT-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Wintersmith](http://wintersmith.io/) \
-📄 PHP \
-⚙️ Statisch \
-🇺🇳 Multilingual \
-⚖️ MIT \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-Static-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-MIT-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [WolfCMS](https://github.com/wolfcms/wolfcms) \
-📄 PHP
-⚙️ SQL
-🇺🇳 N/A
-⚖️ N/A
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-SQL-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-N/A-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-N/A-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [WonderCMS](https://www.wondercms.com/) \
-📄 PHP \
-⚙️ Flat-File \
-🇺🇳 Multilingual \
-⚖️ MIT \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-FlatFile-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-MIT-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Wordpress](https://de.wordpress.org/) \
-📄 PHP \
-⚙️ SQL \
-🇺🇳 Multilingual \
-⚖️ GPL 2.0 \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-SQL-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-GPL_2.0-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Xoops](https://xoops.org/) \
-📄 PHP \
-⚙️ SQL \
-🇺🇳 Multilingual \
-⚖️ GPL 2.0 \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-SQL-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-GPL_2.0-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Yellow](https://datenstrom.se/yellow/) \
-📄 PHP \
-⚙️ Flat-File \
-🇺🇳 Multilingual \
-⚖️ N/A \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-FlatFile-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-N/A-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [ZwiiCMS](https://zwiicms.com/) \
-📄 PHP \
-⚙️ Flat-File \
-🇺🇳 Englisch \
-⚖️ GPL 3 \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-FlatFile-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-English-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-GPL_3.0-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
 ## Python
 
  - [Django CMS](http://django-cms.org/) \
-📄 Python \
-⚙️ SQL \
-🇺🇳 Multilingual \
-⚖️ BSD-Lizenz \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-SQL-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-BSD-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Lector](https://www.getlektor.com/) \
-📄 Python \
-⚙️ Statisch \
-🇺🇳 Multilingual \
-⚖️ BSD 3 \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-Static-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-BSD_3.0-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Pelican](https://getpelican.com/) \
-📄 Python \
-⚙️ Flat-File \
-🇺🇳 Multilingual \
-⚖️ AGPL 3.0 \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-FlatFile-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-AGPL_3.0-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Plone CMS](https://plone.org/) \
-📄 Python \
-⚙️ N/A \
-🇺🇳 Multilingual \
-⚖️ GPL 2.0 \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-N/A-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-GPL_2.0-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Wegtail](https://wagtail.org/) \
-📄 Python \
-⚙️ N/A \
-🇺🇳 Multilingual \
-⚖️ BSD 3.0 \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-N/A-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-BSD_3.0-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
 ## Ruby
 
  - [BrowserCMS](https://github.com/browsermedia/browsercms) \
-📄 Ruby \
-⚙️ k./A. \
-🇺🇳 Multilingual \
-⚖️ LGPL 3 \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-N/A-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-LGPL_3.0-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Middlemen](https://middlemanapp.com/) \
-📄 Ruby \
-⚙️ Statisch \
-🇺🇳 Multilingual \
-⚖️ MIT \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-Static-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-MIT-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Refinery CMS](https://www.refinerycms.com/) \
-📄 Ruby \
-⚙️ N/A \
-🇺🇳 N/A \
-⚖️ MIT \
-💵 Free
+\
+![Generic badge](https://img.shields.io/badge/Database-N/A-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-MIT-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Nesta](https://nestacms.com/) \
-📄 Ruby \
-⚙️ Flat-File \
-🇺🇳 Multilingual \
-⚖️ MIT \
-💵 Free
-
-
-
-
-
-
+\
+![Generic badge](https://img.shields.io/badge/Database-Flat-File-blue.svg)
+![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg)
+![Generic badge](https://img.shields.io/badge/Licence-MIT-red.svg)
+![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
