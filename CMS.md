@@ -199,6 +199,7 @@ Typemill is a lightweight, open-source CMS for hybrid publishing. Made for user 
 ## JavaScript
 
  - [Alfresco](https://ajaxcms.org/) \
+Alfresco Software is a collection of information management software products for Microsoft Windows and Unix-like operating systems developed by Alfresco Software Inc. using Java technology. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-SQL,_MariaDB,_PostgreSQL,_Oracle,_MS_SQL_Server-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -206,6 +207,7 @@ Typemill is a lightweight, open-source CMS for hybrid publishing. Made for user 
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Cockpit CMS](https://getcockpit.com/) \
+Cockpit provides a straightforward way to manage content for various applications, especially when you need a flexible structure and a simple API to fetch content. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-SQLite,_MongoDB-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -213,6 +215,7 @@ Typemill is a lightweight, open-source CMS for hybrid publishing. Made for user 
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Contember](https://www.contember.com/) \
+At Contember, we believe that every business — not just the tech giants — deserves to truly understand their own operations. To have real-time answers. To make decisions based on data, not gut feelings. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-N/A-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
@@ -220,6 +223,7 @@ Typemill is a lightweight, open-source CMS for hybrid publishing. Made for user 
 ![Generic badge](https://img.shields.io/badge/Price-Free-green.svg)
 
  - [Cuttlebelle](https://cuttlebelle.com/) \
+The react static site generator that separates editing and code concerns. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-Static-blue.svg) \
 ![Generic badge](https://img.shields.io/badge/Language-Multilingual-orange.svg) \
